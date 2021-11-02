@@ -4,7 +4,7 @@
 
 #opencore: 0.74
 
-#hardware: Dell Inspiron 5548 ( i7-5500U, RAM 8G, SSD 256G samsung 860 evo,intel hd 55000, VGA AMD R7-M270- 4G, ALC255)
+#hardware: Dell Inspiron 5548 ( i7-5500U, RAM 8G, SSD 256G samsung 860 evo,intel hd 5500, VGA AMD R7-M270- 4G, ALC255)
 
 #Rebuild from : https://github.com/yuppiesnotzhuhao/Hackintosh-Dell-Inspiron-5548.git
 
